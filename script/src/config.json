@@ -1,0 +1,32 @@
+{
+    "storage": {
+        "solution": "arweave",
+        "pinata": {
+            "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
+            "pinataPublicKey": "",
+            "pinataSecretKey": ""
+        },
+        "arweave": {
+            "keyfilePath": "/home/xroot/Documents/ar/arweave-keyfile.json"
+        }
+    },
+    "candymachine": {
+        "cmPublicKey": "0x7f842736da477ffc31c19810341c281556c1791d76668c078b92553f8bba24a1",
+        "cmPrivateKey": "0xd0191dcaebec152182ddb9e8641bc78f7fc139132ea0005e516f8858c45f5f1f"
+    },
+    "collection": {
+        "assetDir": "/home/xroot/hashlips_art_engine/build/images/",
+        "metadataDir": "/home/xroot/hashlips_art_engine/build/json/",
+        "collectionName": "DR.RAINBOW",
+        "collectionDescription": "HE BEST RAINBOW WORKS, BUILT ON A STRONG COMMUNITY FOUNDATION",
+        "collectionCover": "https://cloudflare-ipfs.com/ipfs/QmW9Jd4yNpziQzSnCnmEYCW1V4GSNhrpGHgexghQv5Zdgj",
+        "collectionSize": 30,
+        "maxMintPerWallet": 2,
+        "mintFee": 8000000,
+        "royalty_points_denominator": 1000,
+        "royalty_points_numerator": 60,
+        "presaleMintTime": 	166,
+        "publicMintTime": 1668942369,
+        "whitelistDir": "/home/xroot/Documents/wl/"
+    }
+}
